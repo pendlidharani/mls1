@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "faker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dharani",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pendlidharani/dharani_project.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "bugs": {
+    "url": "https://github.com/pendlidharani/dharani_project/issues"
+  },
+  "homepage": "https://github.com/pendlidharani/dharani_project#readme",
+  "description": ""
+}
